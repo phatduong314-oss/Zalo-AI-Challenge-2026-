@@ -1,0 +1,4 @@
+/.venv/
+/artifacts/ingestion/
+/artifacts/review_step1/
+__pycache__/
